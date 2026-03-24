@@ -1,7 +1,7 @@
-#¡Hola! Soy Jesus Tuz# ✍️
+**¡Hola! Soy Jesus Tuz** ✍️
 
-##sobre mi
-soy estudiante segundo semestre de la carrera de tecnica en **programacion**.Actualmente estoy sumergiendome en el mundo del desarrollo de software, enfocadome en costruir bases solidas en logica y buanas practicas.##
+**sobre mi
+soy estudiante segundo semestre de la carrera de tecnica en **programacion**.Actualmente estoy sumergiendome en el mundo del desarrollo de software, enfocadome en costruir bases solidas en logica y buanas practicas.**
 
 -🏫 Colegio de estudios cientifico y tecnologicos del estado de campeche plantel pomuch
 -Actualmente aprendiendo: **Python** y **Gestion de versiones con Git y GitHub**
